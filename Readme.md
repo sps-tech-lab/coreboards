@@ -1,7 +1,7 @@
 
 
 # Coreboards
-An interchangeable MCU modules implementing a defined hardware interface to unify development with compatible carrier boards.
+Interchangeable MCU modules implementing a defined hardware interface to unify development with compatible carrier boards.
 
 
 
